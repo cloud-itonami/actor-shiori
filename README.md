@@ -1,6 +1,6 @@
 # shiori 栞 — Wellbecoming Relief Observatory
 
-Canonical repository: `etzhayyim/actor-shiori`.
+Canonical repository: `cloud-itonami/actor-shiori`.
 
 Shiori analyzes public, structural, cohort-level Wellbecoming burdens and relief
 gaps. EDN metadata, ontology, and seed data are canonical.
