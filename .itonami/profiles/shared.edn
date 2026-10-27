@@ -7,6 +7,6 @@
  :profile/id "actor-shiori"
  :profile/default? true
  :bot/name "actor-shiori"
- :bot/brief "etzhayyim/actor-shiori の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-shiori"}]
+ :bot/brief "cloud-itonami/actor-shiori の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-shiori"}]
  :bot/tools-requested []}
